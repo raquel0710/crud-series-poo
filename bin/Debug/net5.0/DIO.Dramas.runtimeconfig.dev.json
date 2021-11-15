@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mcrooffice\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mcrooffice\\.nuget\\packages"
+    ]
+  }
+}

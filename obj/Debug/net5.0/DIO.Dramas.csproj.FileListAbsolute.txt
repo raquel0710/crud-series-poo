@@ -1,0 +1,16 @@
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\bin\Debug\net5.0\DIO.Dramas.exe
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\bin\Debug\net5.0\DIO.Dramas.deps.json
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\bin\Debug\net5.0\DIO.Dramas.runtimeconfig.json
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\bin\Debug\net5.0\DIO.Dramas.runtimeconfig.dev.json
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\bin\Debug\net5.0\DIO.Dramas.dll
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\bin\Debug\net5.0\ref\DIO.Dramas.dll
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\bin\Debug\net5.0\DIO.Dramas.pdb
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\obj\Debug\net5.0\DIO.Dramas.csproj.AssemblyReference.cache
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\obj\Debug\net5.0\DIO.Dramas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\obj\Debug\net5.0\DIO.Dramas.AssemblyInfoInputs.cache
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\obj\Debug\net5.0\DIO.Dramas.AssemblyInfo.cs
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\obj\Debug\net5.0\DIO.Dramas.csproj.CoreCompileInputs.cache
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\obj\Debug\net5.0\DIO.Dramas.dll
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\obj\Debug\net5.0\ref\DIO.Dramas.dll
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\obj\Debug\net5.0\DIO.Dramas.pdb
+C:\Users\Mcrooffice\Desktop\DIO.Dramas\obj\Debug\net5.0\DIO.Dramas.genruntimeconfig.cache
