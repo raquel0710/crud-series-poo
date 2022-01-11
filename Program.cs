@@ -87,11 +87,20 @@ namespace DIO.Dramas
             Console.Write("Digite a Descrição da Série: ");
             string entradaDescricao = Console.ReadLine();
 
+            Console.Write("Digite o número de episódios da Série: ");
+            int entradaEpisodios = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o país de origem da Série: ");
+            string entradaPais = Console.ReadLine();
+
             Serie novaSerie = new Serie (id: repositorio.ProximoId(),
                                         genero: (Genero)entradaGenero,
                                         titulo: entradaTitulo,
                                         ano: entradaAno,
-                                        descricao: entradaDescricao);
+                                        descricao: entradaDescricao,
+                                        numeroEpisodios: entradaEpisodios,
+                                        paisOrigem: entradaPais
+                                        );
             
             repositorio.Insere(novaSerie);
         }
@@ -117,11 +126,21 @@ namespace DIO.Dramas
             Console.Write("Digite a Descrição da Série: ");
             string entradaDescricao = Console.ReadLine();
 
+            Console.Write("Digite o Número de Episódios da Série: ");
+            int entradaEpisodios = int.Parse(Console.ReadLine());
+
+            Console.Write("Digite o País de Origem da Série: ");
+            string entradaPais = Console.ReadLine();
+
+
             Serie atualizaSerie = new Serie(id: indiceSerie,
                                         genero: (Genero)entradaGenero,
                                         titulo: entradaTitulo,
                                         ano: entradaAno,
-                                        descricao: entradaDescricao);
+                                        descricao: entradaDescricao,
+                                        numeroEpisodios: entradaEpisodios,
+                                        paisOrigem: entradaPais
+                                        );
             repositorio.Atualiza(indiceSerie, atualizaSerie);
         }
 

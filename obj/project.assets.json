@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mcrooffice\\Desktop\\DIO.Dramas\\DIO.Dramas.csproj",
+      "projectUniqueName": "C:\\Users\\Mcrooffice\\OneDrive\\Área de Trabalho\\DIO.Dramas\\DIO.Dramas.csproj",
       "projectName": "DIO.Dramas",
-      "projectPath": "C:\\Users\\Mcrooffice\\Desktop\\DIO.Dramas\\DIO.Dramas.csproj",
+      "projectPath": "C:\\Users\\Mcrooffice\\OneDrive\\Área de Trabalho\\DIO.Dramas\\DIO.Dramas.csproj",
       "packagesPath": "C:\\Users\\Mcrooffice\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mcrooffice\\Desktop\\DIO.Dramas\\obj\\",
+      "outputPath": "C:\\Users\\Mcrooffice\\OneDrive\\Área de Trabalho\\DIO.Dramas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mcrooffice\\AppData\\Roaming\\NuGet\\NuGet.Config"
